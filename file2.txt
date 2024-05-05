@@ -1,1 +1,1 @@
-Curso de Git Hola, lo modifique en la ramaNueva
+Curso de Git Hola, lo modifique en la rama master despues del merge
